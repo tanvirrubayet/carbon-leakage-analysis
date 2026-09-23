@@ -16,3 +16,7 @@ outputs/report_render_final/
 
 # Local-only duplicate of the canonical notebook
 outputs/carbon_credits_and_leakage_exploration.ipynb
+
+# Iterative local analysis helpers and report-generation utility
+/work/
+/build_carbon_leakage_report.py
