@@ -49,6 +49,8 @@ st.markdown(
     div[data-testid="stMetric"] {background: var(--secondary-background-color); border: 1px solid var(--border-color, #D7E4E8);
       padding: .85rem 1rem; border-radius: 12px;}
     div[data-testid="stMetric"] [data-testid="stMetricLabel"] {color: var(--text-color); opacity: .78;}
+    div[data-testid="stMetricLabel"] p {white-space: normal !important; overflow: visible !important;
+      text-overflow: clip !important; line-height: 1.25;}
     div[data-testid="stMetric"] [data-testid="stMetricValue"] {color: var(--text-color);}
     .stAlert {border-radius: 10px;}
     </style>
@@ -153,9 +155,9 @@ if page == "Start here":
     projects = load_csv("eu27_hosted_credit_issued_retired_summary.csv")
     projects_row = projects.iloc[0] if not projects.empty else None
     m1, m2, m3, m4 = st.columns(4)
-    m1.metric("Industry divisions screened", "5", help="C17, C19, C20, C23 and C24")
-    m2.metric("Historical comparison", "2008–2022", help="Common period used for the four-indicator screen")
-    m3.metric("Full endpoint patterns", str(signal_count), help="C20 and C23 have all four endpoint directions and data available")
+    m1.metric("Divisions screened", "5", help="C17, C19, C20, C23 and C24")
+    m2.metric("Years compared", "2008–22", help="Common period used for the four-indicator screen: 2008 to 2022")
+    m3.metric("Full risk signals", str(signal_count), help="C20 and C23 have all four endpoint directions and data available")
     if projects_row is not None:
         m4.metric("EU-hosted credits retired", f"{projects_row['credits_retired_total']/1e6:.1f}m", help="Registry retirements in the OffsetsDB snapshot; not a leakage total")
     st.write("")
