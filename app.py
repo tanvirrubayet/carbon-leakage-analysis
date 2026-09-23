@@ -8,7 +8,7 @@ import streamlit as st
 
 ROOT = Path(__file__).resolve().parent
 OUTPUTS = ROOT / "outputs"
-FIGURES = OUTPUTS / "carbon_leakage_figures"
+FIGURES = OUTPUTS / "visualizations"
 
 st.set_page_config(
     page_title="EU Carbon Leakage Explorer",

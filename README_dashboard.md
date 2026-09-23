@@ -13,7 +13,7 @@ python -m pip install -r requirements.txt
 streamlit run app.py
 ```
 
-The dashboard expects the project analysis files in `outputs/` and the existing charts in `outputs/carbon_leakage_figures/`.
+The dashboard expects the project analysis files in `outputs/` and the existing charts in `outputs/visualizations/`.
 
 ## Pages
 
