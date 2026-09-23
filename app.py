@@ -41,14 +41,15 @@ st.markdown(
     """
     <style>
     .block-container {padding-top: 1.6rem; padding-bottom: 3rem; max-width: 1380px;}
-    h1, h2, h3 {color: #17324D; letter-spacing: -0.02em;}
-    .eyebrow {color: #167D8D; text-transform: uppercase; letter-spacing: .13em;
+    h1, h2, h3 {color: var(--text-color); letter-spacing: -0.02em;}
+    .eyebrow {color: var(--primary-color); text-transform: uppercase; letter-spacing: .13em;
       font-size: .76rem; font-weight: 700; margin-bottom: .2rem;}
-    .lede {font-size: 1.08rem; line-height: 1.55; color: #3D5365; max-width: 950px;}
-    .small-muted {color: #5F7180; font-size: .88rem;}
-    div[data-testid="stMetric"] {background: #F1F6F7; border: 1px solid #D7E4E8;
+    .lede {font-size: 1.08rem; line-height: 1.55; color: var(--text-color); opacity: .82; max-width: 950px;}
+    .small-muted {color: var(--text-color); opacity: .72; font-size: .88rem;}
+    div[data-testid="stMetric"] {background: var(--secondary-background-color); border: 1px solid var(--border-color, #D7E4E8);
       padding: .85rem 1rem; border-radius: 12px;}
-    div[data-testid="stMetricLabel"] {color: #526779;}
+    div[data-testid="stMetric"] [data-testid="stMetricLabel"] {color: var(--text-color); opacity: .78;}
+    div[data-testid="stMetric"] [data-testid="stMetricValue"] {color: var(--text-color);}
     .stAlert {border-radius: 10px;}
     </style>
     """,
@@ -251,7 +252,16 @@ elif page == "Industry signals":
         if label == "Four-direction endpoint signal":
             st.success("All four expected directions are present at the endpoints.")
         elif "Incomplete" in str(label):
-            st.warning("One or more measures are unavailable, so the complete screen cannot be assessed.")
+            missing = [
+                INDICATORS[col][0]
+                for col in INDICATORS
+                if pd.isna(first[col]) or pd.isna(last[col])
+            ]
+            missing_text = ", ".join(missing) if missing else "one or more endpoint measures"
+            st.warning(
+                f"The four-part screen is incomplete for {sector} because comparable "
+                f"2008 or 2022 data are missing for: {missing_text}. Missing data do not mean zero emissions."
+            )
         else:
             st.info("The endpoint pattern is partial or mixed.")
         st.write(f"**Screen label:** {label}")
@@ -371,8 +381,17 @@ elif page == "Carbon credit projects":
     st.subheader("What project reports say about leakage")
     view=examples.rename(columns={"project":"Project","activity":"Credited activity","host_in_EU27":"Host country","reported_leakage_tCO2e":"Reported leakage (tCO₂e)","leakage_factor_pct":"Leakage factor (%)","evidence_period":"Accounting period","evidence_status":"Evidence status","what_the_report_means":"Plain-language interpretation"})
     keep=[c for c in ["Project","Credited activity","Host country","Reported leakage (tCO₂e)","Leakage factor (%)","Accounting period","Evidence status","Plain-language interpretation"] if c in view.columns]
-    st.dataframe(view[keep],hide_index=True,use_container_width=True)
-    st.caption("These examples use different project methods and time periods. Do not add their figures together or rank projects by the reported values. A leakage factor is a percentage applied in an accounting method, not a tonnage.")
+    display=view[keep].copy()
+    leakage_col="Reported leakage (tCO₂e)"
+    factor_col="Leakage factor (%)"
+    if leakage_col in display:
+        numeric=pd.to_numeric(display[leakage_col],errors="coerce")
+        display[leakage_col]=numeric.map(lambda x: f"{x:,.1f}" if pd.notna(x) else "Not reported in source")
+    if factor_col in display:
+        numeric=pd.to_numeric(display[factor_col],errors="coerce")
+        display[factor_col]=numeric.map(lambda x: f"{x:.1f}%" if pd.notna(x) else "Not reported in source")
+    st.dataframe(display,hide_index=True,use_container_width=True)
+    st.caption("“Not reported in source” means the reviewed report did not provide a numeric value for that field; it does not mean zero. These examples use different project methods and time periods, so do not add their figures together or rank projects by the reported values. A leakage factor is a percentage used in an accounting method, not a tonnage.")
     with st.expander("What does project type mean?"):
         st.write("It names the activity that the project credits: for example, sustainable agriculture or soil carbon, improved forest management, afforestation and reforestation, or mine methane capture. The category does not tell us by itself whether activity shifted elsewhere or whether emissions rose beyond the project boundary.")
 
@@ -395,8 +414,12 @@ elif page == "2030 scenarios":
     tab=summary.loc[summary.sector.eq(sector)&summary.indicator.eq(indicator)].copy()
     if not tab.empty:
         st.subheader("2030 scenario values")
-        show=tab[["scenario","trend_start_year","trend_end_year","annual_compound_change_pct","index_2030_2022_100","unit"]].rename(columns={"scenario":"Historical window","trend_start_year":"Start","trend_end_year":"End","annual_compound_change_pct":"Annual change (%)","index_2030_2022_100":"2030 index","unit":"Measure unit"})
+        show=tab[["scenario","trend_start_year","trend_end_year","annual_compound_change_pct","value_2030","index_2030_2022_100","unit"]].rename(columns={"scenario":"Historical window","trend_start_year":"Start year","trend_end_year":"End year","annual_compound_change_pct":"Annual change","value_2030":"2030 level","index_2030_2022_100":"2030 index (2022 = 100)","unit":"Underlying measure unit"})
+        show["Annual change"]=tab["annual_compound_change_pct"].map(lambda x: "Not available" if pd.isna(x) else f"{x:+.2f}%")
+        show["2030 level"]=tab["value_2030"].map(lambda x: "Not available" if pd.isna(x) else f"{x:,.1f}")
+        show["2030 index (2022 = 100)"]=tab["index_2030_2022_100"].map(lambda x: "Not available" if pd.isna(x) else f"{x:.1f}")
         st.dataframe(show,hide_index=True,use_container_width=True)
+        st.caption("The index is dimensionless: 100 represents the observed 2022 level. “2030 level” uses the underlying measure unit shown in the last column.")
     st.divider()
     st.subheader("Emissions embodied in imports minus exports")
     sectors_bal=[c for c in ["C19","C20","C23"] if c in set(bal.sector)]
@@ -450,4 +473,3 @@ else:
         with st.expander(term): st.write(definition)
     st.subheader("Data files behind this dashboard")
     st.markdown("The dashboard reads the analysis CSVs and figure images in the project `outputs` folder. The notebook remains the full record of data preparation and analysis.")
-
