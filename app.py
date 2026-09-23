@@ -159,7 +159,7 @@ if page == "Start here":
     m2.metric("Years compared", "2008–22", help="Common period used for the four-indicator screen: 2008 to 2022")
     m3.metric("Full risk signals", str(signal_count), help="C20 and C23 have all four endpoint directions and data available")
     if projects_row is not None:
-        m4.metric("EU-hosted credits retired", f"{projects_row['credits_retired_total']/1e6:.1f}m", help="Registry retirements in the OffsetsDB snapshot; not a leakage total")
+        m4.metric("Credits retired", f"{projects_row['credits_retired_total']/1e6:.1f}m", help="Credits retired for projects hosted in the EU27, from the OffsetsDB snapshot; this is not a leakage total")
     st.write("")
 
     col_chart, col_read = st.columns([1.65, 1], gap="large")
