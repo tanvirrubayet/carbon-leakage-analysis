@@ -1,0 +1,313 @@
+sector,indicator,indicator_label,scenario,trend_window,year,value,unit,index_2022_100,observed_or_projected
+C20,production_million_2020_eur,EU sold production value,Observed history,Observed,2008,377406.1491625492,million 2020 euros,104.0405707320734,Observed
+C20,production_million_2020_eur,EU sold production value,Observed history,Observed,2009,332017.1641604782,million 2020 euros,91.52806685516627,Observed
+C20,production_million_2020_eur,EU sold production value,Observed history,Observed,2010,360597.8335017722,million 2020 euros,99.40697703395138,Observed
+C20,production_million_2020_eur,EU sold production value,Observed history,Observed,2011,368259.4764818144,million 2020 euros,101.51908281218994,Observed
+C20,production_million_2020_eur,EU sold production value,Observed history,Observed,2012,373278.2217551549,million 2020 euros,102.90261385363131,Observed
+C20,production_million_2020_eur,EU sold production value,Observed history,Observed,2013,368467.3060110723,million 2020 euros,101.57637573888694,Observed
+C20,production_million_2020_eur,EU sold production value,Observed history,Observed,2014,369945.30331294367,million 2020 euros,101.98381924018751,Observed
+C20,production_million_2020_eur,EU sold production value,Observed history,Observed,2015,378619.17173906544,million 2020 euros,104.37496793638945,Observed
+C20,production_million_2020_eur,EU sold production value,Observed history,Observed,2016,379162.9259307468,million 2020 euros,104.52486612052347,Observed
+C20,production_million_2020_eur,EU sold production value,Observed history,Observed,2017,391585.7706435233,million 2020 euros,107.94950521795515,Observed
+C20,production_million_2020_eur,EU sold production value,Observed history,Observed,2018,383526.03484446,million 2020 euros,105.72765611892758,Observed
+C20,production_million_2020_eur,EU sold production value,Observed history,Observed,2019,381483.7089935219,million 2020 euros,105.16464264491832,Observed
+C20,production_million_2020_eur,EU sold production value,Observed history,Observed,2020,371886.853665,million 2020 euros,102.51905166070114,Observed
+C20,production_million_2020_eur,EU sold production value,Observed history,Observed,2021,391950.27911371726,million 2020 euros,108.0499902507502,Observed
+C20,production_million_2020_eur,EU sold production value,Observed history,Observed,2022,362749.018490537,million 2020 euros,100.0,Observed
+C20,production_million_2020_eur,EU sold production value,Long-run pace (2008–2022),2008–2022,2023,364360.64707637444,million 2020 euros,100.4442819976588,Projected
+C20,production_million_2020_eur,EU sold production value,Long-run pace (2008–2022),2008–2022,2024,365979.4358378878,million 2020 euros,100.89053786025201,Projected
+C20,production_million_2020_eur,EU sold production value,Long-run pace (2008–2022),2008–2022,2025,367605.41658644885,million 2020 euros,101.33877635730626,Projected
+C20,production_million_2020_eur,EU sold production value,Long-run pace (2008–2022),2008–2022,2026,369238.62127476104,million 2020 euros,101.78900629730947,Projected
+C20,production_million_2020_eur,EU sold production value,Long-run pace (2008–2022),2008–2022,2027,370879.08199748833,million 2020 euros,102.2412365278842,Projected
+C20,production_million_2020_eur,EU sold production value,Long-run pace (2008–2022),2008–2022,2028,372526.8309918854,million 2020 euros,102.69547593596133,Projected
+C20,production_million_2020_eur,EU sold production value,Long-run pace (2008–2022),2008–2022,2029,374181.90063843114,million 2020 euros,103.15173344795483,Projected
+C20,production_million_2020_eur,EU sold production value,Long-run pace (2008–2022),2008–2022,2030,375844.3234614652,million 2020 euros,103.61001802993708,Projected
+C20,production_million_2020_eur,EU sold production value,Middle-period pace (2013–2022),2013–2022,2023,363126.24230349954,million 2020 euros,100.10399030562019,Projected
+C20,production_million_2020_eur,EU sold production value,Middle-period pace (2013–2022),2013–2022,2024,363503.858392658,million 2020 euros,100.20808875107699,Projected
+C20,production_million_2020_eur,EU sold production value,Middle-period pace (2013–2022),2013–2022,2025,363881.8671659416,million 2020 euros,100.31229544882537,Projected
+C20,production_million_2020_eur,EU sold production value,Middle-period pace (2013–2022),2013–2022,2026,364260.26903170394,million 2020 euros,100.41661051143723,Projected
+C20,production_million_2020_eur,EU sold production value,Middle-period pace (2013–2022),2013–2022,2027,364639.0643987229,million 2020 euros,100.52103405160149,Projected
+C20,production_million_2020_eur,EU sold production value,Middle-period pace (2013–2022),2013–2022,2028,365018.2536762016,million 2020 euros,100.6255661821243,Projected
+C20,production_million_2020_eur,EU sold production value,Middle-period pace (2013–2022),2013–2022,2029,365397.837273769,million 2020 euros,100.73020701592914,Projected
+C20,production_million_2020_eur,EU sold production value,Middle-period pace (2013–2022),2013–2022,2030,365777.8156014795,million 2020 euros,100.83495666605684,Projected
+C20,production_million_2020_eur,EU sold production value,Recent pace (2018–2022),2018–2022,2023,359702.9696471286,million 2020 euros,99.16028750233879,Projected
+C20,production_million_2020_eur,EU sold production value,Recent pace (2018–2022),2018–2022,2024,356682.4988565431,million 2020 euros,98.32762617546486,Projected
+C20,production_million_2020_eur,EU sold production value,Recent pace (2018–2022),2018–2022,2025,353687.3913366744,million 2020 euros,97.50195680981587,Projected
+C20,production_million_2020_eur,EU sold production value,Recent pace (2018–2022),2018–2022,2026,350717.43410896836,million 2020 euros,96.6832206930196,Projected
+C20,production_million_2020_eur,EU sold production value,Recent pace (2018–2022),2018–2022,2027,347772.41598327865,million 2020 euros,95.87135960571894,Projected
+C20,production_million_2020_eur,EU sold production value,Recent pace (2018–2022),2018–2022,2028,344852.1275428487,million 2020 euros,95.06631581743198,Projected
+C20,production_million_2020_eur,EU sold production value,Recent pace (2018–2022),2018–2022,2029,341956.36112942075,million 2020 euros,94.26803208244692,Projected
+C20,production_million_2020_eur,EU sold production value,Recent pace (2018–2022),2018–2022,2030,339084.9108284695,million 2020 euros,93.47645163575133,Projected
+C20,domestic_emissions_mt,EU industry emissions,Observed history,Observed,2008,199.66489652,Mt CO₂e,153.32102609938534,Observed
+C20,domestic_emissions_mt,EU industry emissions,Observed history,Observed,2009,170.18907140000002,Mt CO₂e,130.68678326906513,Observed
+C20,domestic_emissions_mt,EU industry emissions,Observed history,Observed,2010,176.28185334999998,Mt CO₂e,135.3653802415692,Observed
+C20,domestic_emissions_mt,EU industry emissions,Observed history,Observed,2011,173.55761574000002,Mt CO₂e,133.27346066540127,Observed
+C20,domestic_emissions_mt,EU industry emissions,Observed history,Observed,2012,168.48538235,Mt CO₂e,129.37853450900266,Observed
+C20,domestic_emissions_mt,EU industry emissions,Observed history,Observed,2013,161.58534866,Mt CO₂e,124.08005558802138,Observed
+C20,domestic_emissions_mt,EU industry emissions,Observed history,Observed,2014,157.24386571000002,Mt CO₂e,120.74626666323508,Observed
+C20,domestic_emissions_mt,EU industry emissions,Observed history,Observed,2015,156.56900806,Mt CO₂e,120.22804904375151,Observed
+C20,domestic_emissions_mt,EU industry emissions,Observed history,Observed,2016,156.27531019999998,Mt CO₂e,120.00252088109882,Observed
+C20,domestic_emissions_mt,EU industry emissions,Observed history,Observed,2017,161.00952728,Mt CO₂e,123.63788710287295,Observed
+C20,domestic_emissions_mt,EU industry emissions,Observed history,Observed,2018,156.57643421999998,Mt CO₂e,120.23375153072355,Observed
+C20,domestic_emissions_mt,EU industry emissions,Observed history,Observed,2019,148.72907554,Mt CO₂e,114.20782956868753,Observed
+C20,domestic_emissions_mt,EU industry emissions,Observed history,Observed,2020,148.71623951,Mt CO₂e,114.19797288719298,Observed
+C20,domestic_emissions_mt,EU industry emissions,Observed history,Observed,2021,150.70338664,Mt CO₂e,115.72388676736034,Observed
+C20,domestic_emissions_mt,EU industry emissions,Observed history,Observed,2022,130.22668945,Mt CO₂e,100.0,Observed
+C20,domestic_emissions_mt,EU industry emissions,Long-run pace (2008–2022),2008–2022,2023,127.72915110546683,Mt CO₂e,98.08216091871698,Projected
+C20,domestic_emissions_mt,EU industry emissions,Long-run pace (2008–2022),2008–2022,2024,125.27951152737515,Mt CO₂e,96.20110290485093,Projected
+C20,domestic_emissions_mt,EU industry emissions,Long-run pace (2008–2022),2008–2022,2025,122.87685209446268,Mt CO₂e,94.35612055671639,Projected
+C20,domestic_emissions_mt,EU industry emissions,Long-run pace (2008–2022),2008–2022,2026,120.52027180314474,Mt CO₂e,92.54652200109716,Projected
+C20,domestic_emissions_mt,EU industry emissions,Long-run pace (2008–2022),2008–2022,2027,118.2088869296355,Mt CO₂e,90.77162863379192,Projected
+C20,domestic_emissions_mt,EU industry emissions,Long-run pace (2008–2022),2008–2022,2028,115.9418306985493,Mt CO₂e,89.03077486513598,Projected
+C20,domestic_emissions_mt,EU industry emissions,Long-run pace (2008–2022),2008–2022,2029,113.71825295785752,Mt CO₂e,87.3233078704033,Projected
+C20,domestic_emissions_mt,EU industry emissions,Long-run pace (2008–2022),2008–2022,2030,111.53731986007944,Mt CO₂e,85.6485873449956,Projected
+C20,domestic_emissions_mt,EU industry emissions,Middle-period pace (2013–2022),2013–2022,2023,128.13410428886468,Mt CO₂e,98.39312112595877,Projected
+C20,domestic_emissions_mt,EU industry emissions,Middle-period pace (2013–2022),2013–2022,2024,126.07514443660492,Mt CO₂e,96.81206284907591,Projected
+C20,domestic_emissions_mt,EU industry emissions,Middle-period pace (2013–2022),2013–2022,2025,124.04926957523612,Mt CO₂e,95.25641026363057,Projected
+C20,domestic_emissions_mt,EU industry emissions,Middle-period pace (2013–2022),2013–2022,2026,122.05594806902918,Mt CO₂e,93.72575513093425,Projected
+C20,domestic_emissions_mt,EU industry emissions,Middle-period pace (2013–2022),2013–2022,2027,120.09465682499722,Mt CO₂e,92.21969577219964,Projected
+C20,domestic_emissions_mt,EU industry emissions,Middle-period pace (2013–2022),2013–2022,2028,118.164881155624,Mt CO₂e,90.73783696313106,Projected
+C20,domestic_emissions_mt,EU industry emissions,Middle-period pace (2013–2022),2013–2022,2029,116.26611464379833,Mt CO₂e,89.27978983020851,Projected
+C20,domestic_emissions_mt,EU industry emissions,Middle-period pace (2013–2022),2013–2022,2030,114.39785900991856,Mt CO₂e,87.84517174863848,Projected
+C20,domestic_emissions_mt,EU industry emissions,Recent pace (2018–2022),2018–2022,2023,125.68036520702739,Mt CO₂e,96.50891513700181,Projected
+C20,domestic_emissions_mt,EU industry emissions,Recent pace (2018–2022),2018–2022,2024,121.29275700152401,Mt CO₂e,93.13970700921016,Projected
+C20,domestic_emissions_mt,EU industry emissions,Recent pace (2018–2022),2018–2022,2025,117.05832392193061,Mt CO₂e,89.88812079637076,Projected
+C20,domestic_emissions_mt,EU industry emissions,Recent pace (2018–2022),2018–2022,2026,112.9717184946127,Mt CO₂e,86.75005021761513,Projected
+C20,domestic_emissions_mt,EU industry emissions,Recent pace (2018–2022),2018–2022,2027,109.02777993077834,Mt CO₂e,83.72153234582463,Projected
+C20,domestic_emissions_mt,EU industry emissions,Recent pace (2018–2022),2018–2022,2028,105.22152760915196,Mt CO₂e,80.79874260302941,Projected
+C20,domestic_emissions_mt,EU industry emissions,Recent pace (2018–2022),2018–2022,2029,101.54815478617338,Mt CO₂e,77.97798993052217,Projected
+C20,domestic_emissions_mt,EU industry emissions,Recent pace (2018–2022),2018–2022,2030,98.00302252577931,Mt CO₂e,75.25571212758746,Projected
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Observed history,Observed,2008,131749.61783667243,million 2020 euros,60.15803093470928,Observed
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Observed history,Observed,2009,132614.41063697645,million 2020 euros,60.55290291147127,Observed
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Observed history,Observed,2010,144111.08260620566,million 2020 euros,65.80238415724217,Observed
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Observed history,Observed,2011,143079.09545974806,million 2020 euros,65.33116977574939,Observed
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Observed history,Observed,2012,146930.79452060937,million 2020 euros,67.08988934593997,Observed
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Observed history,Observed,2013,146471.38169542656,million 2020 euros,66.88011742095867,Observed
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Observed history,Observed,2014,153691.60608606008,million 2020 euros,70.17693519834103,Observed
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Observed history,Observed,2015,174208.81721262407,million 2020 euros,79.54527373254389,Observed
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Observed history,Observed,2016,181718.36678332047,million 2020 euros,82.97419992449477,Observed
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Observed history,Observed,2017,182747.36980513227,million 2020 euros,83.44405172850384,Observed
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Observed history,Observed,2018,184012.6522797085,million 2020 euros,84.02179080279141,Observed
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Observed history,Observed,2019,197784.7097763058,million 2020 euros,90.31023303525369,Observed
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Observed history,Observed,2020,210022.717573,million 2020 euros,95.89821472128342,Observed
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Observed history,Observed,2021,202647.07337443583,million 2020 euros,92.53043089658433,Observed
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Observed history,Observed,2022,219005.86802726792,million 2020 euros,100.0,Observed
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Long-run pace (2008–2022),2008–2022,2023,227427.27498505916,million 2020 euros,103.84528827179311,Projected
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Long-run pace (2008–2022),2008–2022,2024,236172.50931691832,million 2020 euros,107.83843896251813,Projected
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Long-run pace (2008–2022),2008–2022,2025,245254.02311888125,million 2020 euros,111.9851378084286,Projected
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Long-run pace (2008–2022),2008–2022,2026,254684.74730597236,million 2020 euros,116.29128917872747,Projected
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Long-run pace (2008–2022),2008–2022,2027,264478.11002417485,million 2020 euros,120.76302448263408,Projected
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Long-run pace (2008–2022),2008–2022,2028,274648.0557703945,million 2020 euros,125.40671089972746,Projected
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Long-run pace (2008–2022),2008–2022,2029,285209.0652476413,million 2020 euros,130.22896044599617,Projected
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Long-run pace (2008–2022),2008–2022,2030,296176.1759836996,million 2020 euros,135.23663938850413,Projected
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Middle-period pace (2013–2022),2013–2022,2023,228153.6229912782,million 2020 euros,104.17694514142941,Projected
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Middle-period pace (2013–2022),2013–2022,2024,237683.47466180762,million 2020 euros,108.52835899000395,Projected
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Middle-period pace (2013–2022),2013–2022,2025,247611.3830086746,million 2020 euros,113.06152900791,Projected
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Middle-period pace (2013–2022),2013–2022,2026,257953.9746408816,million 2020 euros,117.7840470506317,Projected
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Middle-period pace (2013–2022),2013–2022,2027,268728.570651768,million 2020 euros,122.703822081292,Projected
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Middle-period pace (2013–2022),2013–2022,2028,279953.2156272397,million 2020 euros,127.82909341606472,Projected
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Middle-period pace (2013–2022),2013–2022,2029,291646.70786565717,million 2020 euros,133.1684445228403,Projected
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Middle-period pace (2013–2022),2013–2022,2030,303828.63085999055,million 2020 euros,138.73081739625422,Projected
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Recent pace (2018–2022),2018–2022,2023,227317.11046523062,million 2020 euros,103.79498618590799,Projected
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Recent pace (2018–2022),2018–2022,2024,235943.76340559137,million 2020 euros,107.73399157332832,Projected
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Recent pace (2018–2022),2018–2022,2025,244897.796633345,million 2020 euros,111.82248167106341,Projected
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Recent pace (2018–2022),2018–2022,2026,254191.63418517352,million 2020 euros,116.06612940321979,Projected
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Recent pace (2018–2022),2018–2022,2027,263838.1715882346,million 2020 euros,120.47082298059004,Projected
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Recent pace (2018–2022),2018–2022,2028,273850.7937531604,million 2020 euros,125.04267407075314,Projected
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Recent pace (2018–2022),2018–2022,2029,284243.3935460922,million 2020 euros,129.7880262782282,Projected
+C20,extra_eu_import_million_2020_eur,Extra-EU imports,Recent pace (2018–2022),2018–2022,2030,295030.3910655225,million 2020 euros,134.7134639464496,Projected
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Observed history,Observed,2008,126.203,Mt CO₂e,90.57198220180852,Observed
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Observed history,Observed,2009,95.458,Mt CO₂e,68.50724845701163,Observed
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Observed history,Observed,2010,107.695,Mt CO₂e,77.2893641452562,Observed
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Observed history,Observed,2011,111.215,Mt CO₂e,79.81555906415961,Observed
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Observed history,Observed,2012,102.935,Mt CO₂e,73.87325965264819,Observed
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Observed history,Observed,2013,97.31,Mt CO₂e,69.83637146548011,Observed
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Observed history,Observed,2014,105.181,Mt CO₂e,75.48514425147121,Observed
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Observed history,Observed,2015,88.955,Mt CO₂e,63.840246878139794,Observed
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Observed history,Observed,2016,85.728,Mt CO₂e,61.52432897947466,Observed
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Observed history,Observed,2017,96.057,Mt CO₂e,68.93713219463183,Observed
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Observed history,Observed,2018,106.693,Mt CO₂e,76.570259796182,Observed
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Observed history,Observed,2019,97.737,Mt CO₂e,70.14281613319936,Observed
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Observed history,Observed,2020,89.973,Mt CO₂e,64.57083393139084,Observed
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Observed history,Observed,2021,109.712,Mt CO₂e,78.7369025405483,Observed
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Observed history,Observed,2022,139.34,Mt CO₂e,100.0,Observed
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Long-run pace (2008–2022),2008–2022,2023,139.33485128780418,Mt CO₂e,99.99630492881023,Projected
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Long-run pace (2008–2022),2008–2022,2024,139.32970276585698,Mt CO₂e,99.992609994156,Projected
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Long-run pace (2008–2022),2008–2022,2025,139.3245544341513,Mt CO₂e,99.98891519603222,Projected
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Long-run pace (2008–2022),2008–2022,2026,139.31940629268016,Mt CO₂e,99.98522053443388,Projected
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Long-run pace (2008–2022),2008–2022,2027,139.3142583414365,Mt CO₂e,99.98152600935589,Projected
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Long-run pace (2008–2022),2008–2022,2028,139.30911058041332,Mt CO₂e,99.97783162079324,Projected
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Long-run pace (2008–2022),2008–2022,2029,139.30396300960354,Mt CO₂e,99.97413736874087,Projected
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Long-run pace (2008–2022),2008–2022,2030,139.2988156290002,Mt CO₂e,99.97044325319376,Projected
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Middle-period pace (2013–2022),2013–2022,2023,142.82981850465072,Mt CO₂e,102.50453459498401,Projected
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Middle-period pace (2013–2022),2013–2022,2024,146.40704072105257,Mt CO₂e,105.07179612534274,Projected
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Middle-period pace (2013–2022),2013–2022,2025,150.07385570540367,Mt CO₂e,107.70335560887303,Projected
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Middle-period pace (2013–2022),2013–2022,2026,153.8325073395719,Mt CO₂e,110.4008234100559,Projected
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Middle-period pace (2013–2022),2013–2022,2027,157.68529570422282,Mt CO₂e,113.16585022550798,Projected
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Middle-period pace (2013–2022),2013–2022,2028,161.63457848633792,Mt CO₂e,116.00012809411362,Projected
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Middle-period pace (2013–2022),2013–2022,2029,165.68277242198485,Mt CO₂e,118.90539143245647,Projected
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Middle-period pace (2013–2022),2013–2022,2030,169.8323547752221,Mt CO₂e,121.8834180961835,Projected
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Recent pace (2018–2022),2018–2022,2023,148.69052499061897,Mt CO₂e,106.71058202283548,Projected
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Recent pace (2018–2022),2018–2022,2024,158.66852463029915,Mt CO₂e,113.871483156523,Projected
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Recent pace (2018–2022),2018–2022,2025,169.31610612003828,Mt CO₂e,121.51292243436076,Projected
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Recent pace (2018–2022),2018–2022,2026,180.67820229909464,Mt CO₂e,129.667146762663,Projected
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Recent pace (2018–2022),2018–2022,2027,192.80276126176,Mt CO₂e,138.36856700284196,Projected
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Recent pace (2018–2022),2018–2022,2028,205.7409486985221,Mt CO₂e,147.65390318538977,Projected
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Recent pace (2018–2022),2018–2022,2029,219.5473638154963,Mt CO₂e,157.56233946856344,Projected
+C20,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Recent pace (2018–2022),2018–2022,2030,234.28026974330822,Mt CO₂e,168.1356894956999,Projected
+C23,production_million_2020_eur,EU sold production value,Observed history,Observed,2008,195843.31813142647,million 2020 euros,114.22385664246623,Observed
+C23,production_million_2020_eur,EU sold production value,Observed history,Observed,2009,156284.82872318118,million 2020 euros,91.15172292724986,Observed
+C23,production_million_2020_eur,EU sold production value,Observed history,Observed,2010,156890.25757141222,million 2020 euros,91.5048338662769,Observed
+C23,production_million_2020_eur,EU sold production value,Observed history,Observed,2011,160791.295995916,million 2020 euros,93.7800794963486,Observed
+C23,production_million_2020_eur,EU sold production value,Observed history,Observed,2012,150657.67122286116,million 2020 euros,87.86973384662271,Observed
+C23,production_million_2020_eur,EU sold production value,Observed history,Observed,2013,146610.14564861538,million 2020 euros,85.50905090190713,Observed
+C23,production_million_2020_eur,EU sold production value,Observed history,Observed,2014,150743.78310674036,million 2020 euros,87.91995782961727,Observed
+C23,production_million_2020_eur,EU sold production value,Observed history,Observed,2015,153722.003337443,million 2020 euros,89.65697803498969,Observed
+C23,production_million_2020_eur,EU sold production value,Observed history,Observed,2016,150037.7371872633,million 2020 euros,87.50816288731943,Observed
+C23,production_million_2020_eur,EU sold production value,Observed history,Observed,2017,164939.91067845028,million 2020 euros,96.19972175570115,Observed
+C23,production_million_2020_eur,EU sold production value,Observed history,Observed,2018,160075.11099228234,million 2020 euros,93.36237102426462,Observed
+C23,production_million_2020_eur,EU sold production value,Observed history,Observed,2019,163921.01599177704,million 2020 euros,95.60546057929363,Observed
+C23,production_million_2020_eur,EU sold production value,Observed history,Observed,2020,155577.056722,million 2020 euros,90.7389212632982,Observed
+C23,production_million_2020_eur,EU sold production value,Observed history,Observed,2021,167662.949594357,million 2020 euros,97.78790975072712,Observed
+C23,production_million_2020_eur,EU sold production value,Observed history,Observed,2022,171455.7045157725,million 2020 euros,100.0,Observed
+C23,production_million_2020_eur,EU sold production value,Long-run pace (2008–2022),2008–2022,2023,171418.12234210686,million 2020 euros,99.9780805346945,Projected
+C23,production_million_2020_eur,EU sold production value,Long-run pace (2008–2022),2008–2022,2024,171380.54840625275,million 2020 euros,99.9561658740186,Projected
+C23,production_million_2020_eur,EU sold production value,Long-run pace (2008–2022),2008–2022,2025,171342.98270640447,million 2020 euros,99.93425601691914,Projected
+C23,production_million_2020_eur,EU sold production value,Long-run pace (2008–2022),2008–2022,2026,171305.42524075674,million 2020 euros,99.9123509623432,Projected
+C23,production_million_2020_eur,EU sold production value,Long-run pace (2008–2022),2008–2022,2027,171267.87600750464,million 2020 euros,99.8904507092381,Projected
+C23,production_million_2020_eur,EU sold production value,Long-run pace (2008–2022),2008–2022,2028,171230.3350048437,million 2020 euros,99.86855525655139,Projected
+C23,production_million_2020_eur,EU sold production value,Long-run pace (2008–2022),2008–2022,2029,171192.80223096983,million 2020 euros,99.84666460323082,Projected
+C23,production_million_2020_eur,EU sold production value,Long-run pace (2008–2022),2008–2022,2030,171155.2776840793,million 2020 euros,99.82477874822442,Projected
+C23,production_million_2020_eur,EU sold production value,Middle-period pace (2013–2022),2013–2022,2023,174019.58944948777,million 2020 euros,101.49536286410314,Projected
+C23,production_million_2020_eur,EU sold production value,Middle-period pace (2013–2022),2013–2022,2024,176621.8137663802,million 2020 euros,103.01308682915969,Projected
+C23,production_million_2020_eur,EU sold production value,Middle-period pace (2013–2022),2013–2022,2025,179262.950779348,million 2020 euros,104.55350627476925,Projected
+C23,production_million_2020_eur,EU sold production value,Middle-period pace (2013–2022),2013–2022,2026,181943.5823743979,million 2020 euros,106.1169605807199,Projected
+C23,production_million_2020_eur,EU sold production value,Middle-period pace (2013–2022),2013–2022,2027,184664.29913884355,million 2020 euros,107.70379420175895,Projected
+C23,production_million_2020_eur,EU sold production value,Middle-period pace (2013–2022),2013–2022,2028,187425.70049142215,million 2020 euros,109.31435674348214,Projected
+C23,production_million_2020_eur,EU sold production value,Middle-period pace (2013–2022),2013–2022,2029,190228.39481435606,million 2020 euros,110.9490030393574,Projected
+C23,production_million_2020_eur,EU sold production value,Middle-period pace (2013–2022),2013–2022,2030,193072.99958738947,million 2020 euros,112.60809322890061,Projected
+C23,production_million_2020_eur,EU sold production value,Recent pace (2018–2022),2018–2022,2023,174219.92046427607,million 2020 euros,101.61220412952157,Projected
+C23,production_million_2020_eur,EU sold production value,Recent pace (2018–2022),2018–2022,2024,177028.70121645028,million 2020 euros,103.25040028059558,Projected
+C23,production_million_2020_eur,EU sold production value,Recent pace (2018–2022),2018–2022,2025,179882.7652479003,million 2020 euros,104.91500749766689,Projected
+C23,production_million_2020_eur,EU sold production value,Recent pace (2018–2022),2018–2022,2026,182782.84261752453,million 2020 euros,106.60645158103212,Projected
+C23,production_million_2020_eur,EU sold production value,Recent pace (2018–2022),2018–2022,2027,185729.67515426112,million 2020 euros,108.32516519575792,Projected
+C23,production_million_2020_eur,EU sold production value,Recent pace (2018–2022),2018–2022,2028,188724.01664684512,million 2020 euros,110.07158798235498,Projected
+C23,production_million_2020_eur,EU sold production value,Recent pace (2018–2022),2018–2022,2029,191766.63303662452,million 2020 euros,111.84616666923648,Projected
+C23,production_million_2020_eur,EU sold production value,Recent pace (2018–2022),2018–2022,2030,194858.30261348543,million 2020 euros,113.64935518698947,Projected
+C23,domestic_emissions_mt,EU industry emissions,Observed history,Observed,2008,239.66306919,Mt CO₂e,141.7441667360284,Observed
+C23,domestic_emissions_mt,EU industry emissions,Observed history,Observed,2009,196.20257752000003,Mt CO₂e,116.04028503860047,Observed
+C23,domestic_emissions_mt,EU industry emissions,Observed history,Observed,2010,197.96637837,Mt CO₂e,117.08345152485349,Observed
+C23,domestic_emissions_mt,EU industry emissions,Observed history,Observed,2011,196.81425969,Mt CO₂e,116.40205283113924,Observed
+C23,domestic_emissions_mt,EU industry emissions,Observed history,Observed,2012,184.95907635,Mt CO₂e,109.39052998904897,Observed
+C23,domestic_emissions_mt,EU industry emissions,Observed history,Observed,2013,173.48249497,Mt CO₂e,102.60292407970182,Observed
+C23,domestic_emissions_mt,EU industry emissions,Observed history,Observed,2014,176.49010484,Mt CO₂e,104.38171776840414,Observed
+C23,domestic_emissions_mt,EU industry emissions,Observed history,Observed,2015,175.22830284,Mt CO₂e,103.63544895994596,Observed
+C23,domestic_emissions_mt,EU industry emissions,Observed history,Observed,2016,175.99617519,Mt CO₂e,104.08959246556925,Observed
+C23,domestic_emissions_mt,EU industry emissions,Observed history,Observed,2017,178.71610961,Mt CO₂e,105.698245977529,Observed
+C23,domestic_emissions_mt,EU industry emissions,Observed history,Observed,2018,182.35078089,Mt CO₂e,107.8479032179382,Observed
+C23,domestic_emissions_mt,EU industry emissions,Observed history,Observed,2019,179.26242116999998,Mt CO₂e,106.02135156535348,Observed
+C23,domestic_emissions_mt,EU industry emissions,Observed history,Observed,2020,172.09849398,Mt CO₂e,101.78438300137711,Observed
+C23,domestic_emissions_mt,EU industry emissions,Observed history,Observed,2021,178.86051387,Mt CO₂e,105.78365113225732,Observed
+C23,domestic_emissions_mt,EU industry emissions,Observed history,Observed,2022,169.08143361999998,Mt CO₂e,100.0,Observed
+C23,domestic_emissions_mt,EU industry emissions,Long-run pace (2008–2022),2008–2022,2023,166.64923946731443,Mt CO₂e,98.56152499975146,Projected
+C23,domestic_emissions_mt,EU industry emissions,Long-run pace (2008–2022),2008–2022,2024,164.25203181947276,Mt CO₂e,97.1437421027663,Projected
+C23,domestic_emissions_mt,EU industry emissions,Long-run pace (2008–2022),2008–2022,2025,161.88930740434935,Mt CO₂e,95.74635365831206,Projected
+C23,domestic_emissions_mt,EU industry emissions,Long-run pace (2008–2022),2008–2022,2026,159.56057018926225,Mt CO₂e,94.36906629728769,Projected
+C23,domestic_emissions_mt,EU industry emissions,Long-run pace (2008–2022),2008–2022,2027,157.26533127683567,Mt CO₂e,93.01159087063323,Projected
+C23,domestic_emissions_mt,EU industry emissions,Long-run pace (2008–2022),2008–2022,2028,155.00310880236032,Mt CO₂e,91.67364238862568,Projected
+C23,domestic_emissions_mt,EU industry emissions,Long-run pace (2008–2022),2008–2022,2029,152.7734278326303,Mt CO₂e,90.35493996104805,Projected
+C23,domestic_emissions_mt,EU industry emissions,Long-run pace (2008–2022),2008–2022,2030,150.57582026623516,Mt CO₂e,89.05520673821879,Projected
+C23,domestic_emissions_mt,EU industry emissions,Middle-period pace (2013–2022),2013–2022,2023,168.92503826093417,Mt CO₂e,99.90750293765707,Projected
+C23,domestic_emissions_mt,EU industry emissions,Middle-period pace (2013–2022),2013–2022,2024,168.76878756298115,Mt CO₂e,99.81509143237956,Projected
+C23,domestic_emissions_mt,EU industry emissions,Middle-period pace (2013–2022),2013–2022,2025,168.61268139233363,Mt CO₂e,99.72276540502972,Projected
+C23,domestic_emissions_mt,EU industry emissions,Middle-period pace (2013–2022),2013–2022,2026,168.45671961530806,Mt CO₂e,99.63052477654293,Projected
+C23,domestic_emissions_mt,EU industry emissions,Middle-period pace (2013–2022),2013–2022,2027,168.30090209834464,Mt CO₂e,99.53836946792778,Projected
+C23,domestic_emissions_mt,EU industry emissions,Middle-period pace (2013–2022),2013–2022,2028,168.14522870800704,Mt CO₂e,99.4462994002659,Projected
+C23,domestic_emissions_mt,EU industry emissions,Middle-period pace (2013–2022),2013–2022,2029,167.98969931098233,Mt CO₂e,99.3543144947119,Projected
+C23,domestic_emissions_mt,EU industry emissions,Middle-period pace (2013–2022),2013–2022,2030,167.83431377408095,Mt CO₂e,99.26241467249334,Projected
+C23,domestic_emissions_mt,EU industry emissions,Recent pace (2018–2022),2018–2022,2023,166.50838247851243,Mt CO₂e,98.47821781114637,Projected
+C23,domestic_emissions_mt,EU industry emissions,Recent pace (2018–2022),2018–2022,2024,163.9744875710061,Mt CO₂e,96.97959383259582,Projected
+C23,domestic_emissions_mt,EU industry emissions,Recent pace (2018–2022),2018–2022,2025,161.4791530248865,Mt CO₂e,95.50377564682877,Projected
+C23,domestic_emissions_mt,EU industry emissions,Recent pace (2018–2022),2018–2022,2026,159.02179203544205,Mt CO₂e,94.05041619935258,Projected
+C23,domestic_emissions_mt,EU industry emissions,Recent pace (2018–2022),2018–2022,2027,156.6018267278508,Mt CO₂e,92.61917371708812,Projected
+C23,domestic_emissions_mt,EU industry emissions,Recent pace (2018–2022),2018–2022,2028,154.2186880212869,Mt CO₂e,91.20971162799803,Projected
+C23,domestic_emissions_mt,EU industry emissions,Recent pace (2018–2022),2018–2022,2029,151.8718154950952,Mt CO₂e,89.8216984819384,Projected
+C23,domestic_emissions_mt,EU industry emissions,Recent pace (2018–2022),2018–2022,2030,149.56065725700216,Mt CO₂e,88.45480787271443,Projected
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Observed history,Observed,2008,18733.959063158665,million 2020 euros,79.11494522554283,Observed
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Observed history,Observed,2009,12973.447078139763,million 2020 euros,54.787861525328296,Observed
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Observed history,Observed,2010,16192.739642021865,million 2020 euros,68.38318080609899,Observed
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Observed history,Observed,2011,16983.140740406296,million 2020 euros,71.72110523489027,Observed
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Observed history,Observed,2012,15952.269369189817,million 2020 euros,67.36765641003622,Observed
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Observed history,Observed,2013,14601.10835754816,million 2020 euros,61.66159988100615,Observed
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Observed history,Observed,2014,15739.473086598213,million 2020 euros,66.46900139618272,Observed
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Observed history,Observed,2015,16908.059129196245,million 2020 euros,71.40402983516816,Observed
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Observed history,Observed,2016,17118.39988858859,million 2020 euros,72.29231498631648,Observed
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Observed history,Observed,2017,18183.922124880766,million 2020 euros,76.79209707064011,Observed
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Observed history,Observed,2018,19322.936986377623,million 2020 euros,81.60224414497718,Observed
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Observed history,Observed,2019,19800.132043109374,million 2020 euros,83.61747545022094,Observed
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Observed history,Observed,2020,17624.299812,million 2020 euros,74.4287691439969,Observed
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Observed history,Observed,2021,21805.59281500025,million 2020 euros,92.08669002388457,Observed
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Observed history,Observed,2022,23679.418610164532,million 2020 euros,100.0,Observed
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Long-run pace (2008–2022),2008–2022,2023,24269.402107131526,million 2020 euros,102.49154553445725,Projected
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Long-run pace (2008–2022),2008–2022,2024,24874.085311571234,million 2020 euros,105.04516906041724,Projected
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Long-run pace (2008–2022),2008–2022,2025,25493.83447338877,million 2020 euros,107.66241727930512,Projected
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Long-run pace (2008–2022),2008–2022,2026,26129.02496777241,million 2020 euros,110.34487542931637,Projected
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Long-run pace (2008–2022),2008–2022,2027,26780.04152255416,million 2020 euros,113.09416824557789,Projected
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Long-run pace (2008–2022),2008–2022,2028,27447.27845123515,million 2020 euros,115.91196094423215,Projected
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Long-run pace (2008–2022),2008–2022,2029,28131.13989181695,million 2020 euros,118.79996023104,Projected
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Long-run pace (2008–2022),2008–2022,2030,28832.040051583434,million 2020 euros,121.75991533511346,Projected
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Middle-period pace (2013–2022),2013–2022,2023,24756.32624867227,million 2020 euros,104.54786351065846,Projected
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Middle-period pace (2013–2022),2013–2022,2024,25882.2101767152,million 2020 euros,109.3025576464327,Projected
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Middle-period pace (2013–2022),2013–2022,2025,27059.297769093962,million 2020 euros,114.27348878185124,Projected
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Middle-period pace (2013–2022),2013–2022,2026,28289.917698575002,million 2020 euros,119.47049108051743,Projected
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Middle-period pace (2013–2022),2013–2022,2027,29576.5045427838,million 2020 euros,124.90384595037274,Projected
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Middle-period pace (2013–2022),2013–2022,2028,30921.603600613307,million 2020 euros,130.5843023837588,Projected
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Middle-period pace (2013–2022),2013–2022,2029,32327.875927676054,million 2020 euros,136.52309822251766,Projected
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Middle-period pace (2013–2022),2013–2022,2030,33798.10360076177,million 2020 euros,142.73198239019996,Projected
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Recent pace (2018–2022),2018–2022,2023,24901.21831169629,million 2020 euros,105.15975379989817,Projected
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Recent pace (2018–2022),2018–2022,2024,26186.059869754983,million 2020 euros,110.585738192552,Projected
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Recent pace (2018–2022),2018–2022,2025,27537.196088928275,million 2020 euros,116.29169002108763,Projected
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Recent pace (2018–2022),2018–2022,2026,28958.047610512167,million 2020 euros,122.29205491591652,Projected
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Recent pace (2018–2022),2018–2022,2027,30452.21157247189,million 2020 euros,128.60202386641407,Projected
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Recent pace (2018–2022),2018–2022,2028,32023.47071623554,million 2020 euros,135.23757167960736,Projected
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Recent pace (2018–2022),2018–2022,2029,33675.80296337578,million 2020 euros,142.21549742323592,Projected
+C23,extra_eu_import_million_2020_eur,Extra-EU imports,Recent pace (2018–2022),2018–2022,2030,35413.39148642479,million 2020 euros,149.55346695557543,Projected
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Observed history,Observed,2008,33.841,Mt CO₂e,65.82315412744106,Observed
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Observed history,Observed,2009,24.712,Mt CO₂e,48.066599237532095,Observed
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Observed history,Observed,2010,26.894,Mt CO₂e,52.31074457325138,Observed
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Observed history,Observed,2011,25.025,Mt CO₂e,48.67540651987863,Observed
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Observed history,Observed,2012,24.213,Mt CO₂e,47.09600871391893,Observed
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Observed history,Observed,2013,24.441,Mt CO₂e,47.53948494514899,Observed
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Observed history,Observed,2014,28.268,Mt CO₂e,54.9832723877694,Observed
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Observed history,Observed,2015,27.612,Mt CO₂e,53.70730568738815,Observed
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Observed history,Observed,2016,27.858,Mt CO₂e,54.18579320003112,Observed
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Observed history,Observed,2017,33.318,Mt CO₂e,64.80588189527737,Observed
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Observed history,Observed,2018,36.923,Mt CO₂e,71.81786353380534,Observed
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Observed history,Observed,2019,35.848,Mt CO₂e,69.72691200497938,Observed
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Observed history,Observed,2020,38.669,Mt CO₂e,75.2139578308566,Observed
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Observed history,Observed,2021,44.07,Mt CO₂e,85.71928732591613,Observed
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Observed history,Observed,2022,51.412,Mt CO₂e,100.0,Observed
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Long-run pace (2008–2022),2008–2022,2023,53.57184136660763,Mt CO₂e,104.20104521630675,Projected
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Long-run pace (2008–2022),2008–2022,2024,55.822418645626925,Mt CO₂e,108.57857824170803,Projected
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Long-run pace (2008–2022),2008–2022,2025,58.16754369376576,Mt CO₂e,113.14001340886517,Projected
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Long-run pace (2008–2022),2008–2022,2026,60.61118850555585,Mt CO₂e,117.89307652990712,Projected
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Long-run pace (2008–2022),2008–2022,2027,63.15749194081516,Mt CO₂e,122.84581798182363,Projected
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Long-run pace (2008–2022),2008–2022,2028,65.8107667347341,Mt CO₂e,128.00662634158192,Projected
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Long-run pace (2008–2022),2008–2022,2029,68.57550680245843,Mt CO₂e,133.3842425940606,Projected
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Long-run pace (2008–2022),2008–2022,2030,71.45639485054123,Mt CO₂e,138.98777493686538,Projected
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Middle-period pace (2013–2022),2013–2022,2023,55.40577163771313,Mt CO₂e,107.76817015037953,Projected
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Middle-period pace (2013–2022),2013–2022,2024,59.709786251661406,Mt CO₂e,116.13978497561155,Projected
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Middle-period pace (2013–2022),2013–2022,2025,64.3481440441184,Mt CO₂e,125.161721084802,Projected
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Middle-period pace (2013–2022),2013–2022,2026,69.34681736207683,Mt CO₂e,134.88449654181287,Projected
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Middle-period pace (2013–2022),2013–2022,2027,74.7337961286359,Mt CO₂e,145.36255373966372,Projected
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Middle-period pace (2013–2022),2013–2022,2028,80.53924457174611,Mt CO₂e,156.6545642490977,Projected
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Middle-period pace (2013–2022),2013–2022,2029,86.79567012790964,Mt CO₂e,168.82375734830322,Projected
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Middle-period pace (2013–2022),2013–2022,2030,93.53810546660782,Mt CO₂e,181.9382740733833,Projected
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Recent pace (2018–2022),2018–2022,2023,56.07713464805924,Mt CO₂e,109.07401899957061,Projected
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Recent pace (2018–2022),2018–2022,2024,61.165584500438925,Mt CO₂e,118.97141620718689,Projected
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Recent pace (2018–2022),2018–2022,2025,66.71576125920717,Mt CO₂e,129.76690511788527,Projected
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Recent pace (2018–2022),2018–2022,2026,72.76956211157581,Mt CO₂e,141.54197874343697,Projected
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Recent pace (2018–2022),2018–2022,2027,79.37268600348452,Mt CO₂e,154.3855247869846,Projected
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Recent pace (2018–2022),2018–2022,2028,86.57497861191023,Mt CO₂e,168.39449663874237,Projected
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Recent pace (2018–2022),2018–2022,2029,94.43080862002917,Mt CO₂e,183.67464525797317,Projected
+C23,extra_eu_embodied_import_carbon_mtco2e,Carbon embodied in imports,Recent pace (2018–2022),2018–2022,2030,102.99947813565878,Mt CO₂e,200.34131746607557,Projected

@@ -1,0 +1,6 @@
+sector,Output down; imports up,Output down; imports not up,Imports up; output not down,Neither expected direction,Missing / zero baseline
+C17,12,23,29,17,10
+C19,0,0,0,1,0
+C20,89,71,62,42,99
+C23,22,27,10,8,13
+C24,18,36,27,34,16

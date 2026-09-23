@@ -1,0 +1,18 @@
+# Local environment and secrets
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+.env.*
+!.env.example
+
+# Original source extracts are deliberately kept outside the public repo.
+data/raw/
+
+# Internal document QA renders
+outputs/report_render/
+outputs/report_render_final/
+
+# Local-only duplicate of the canonical notebook
+outputs/carbon_credits_and_leakage_exploration.ipynb

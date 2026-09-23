@@ -1,0 +1,9 @@
+sector,product,indicator,expected_direction,n_years,spearman_rho,p_one_sided,q_bh,interpretation
+C20,Polypropylene,production_kg,down,15,0.5285714285714286,0.9786013553452748,0.9945696269156051,No clear monotonic trend
+C20,Polypropylene,extra_eu_import_kg,up,15,0.9678571428571429,1.7982677704657856e-09,1.4386142163726285e-08,Clear monotonic trend in expected direction
+C20,Ethylene,production_kg,down,15,-0.6607142857142856,0.0036652849154458515,0.014661139661783406,Clear monotonic trend in expected direction
+C20,Ethylene,extra_eu_import_kg,up,15,0.11785714285714284,0.33785576461065214,0.5405692233770434,No clear monotonic trend
+C23,Cement clinker,production_kg,down,15,-0.35,0.10047267540814665,0.2679271344217244,No clear monotonic trend
+C23,Cement clinker,extra_eu_import_kg,up,15,-0.04642857142857142,0.5652542372274527,0.7536723163032703,No clear monotonic trend
+C23,Ready-mixed concrete,production_kg,down,15,-0.24285714285714283,0.19156417091967087,0.38312834183934175,No clear monotonic trend
+C23,Ready-mixed concrete,extra_eu_import_kg,up,15,-0.6357142857142856,0.9945696269156051,0.9945696269156051,No clear monotonic trend

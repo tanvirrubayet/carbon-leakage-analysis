@@ -1,0 +1,47 @@
+{
+  "analysis": "Illustrative continuation scenarios for the four-indicator EU27 industrial leakage-risk screen",
+  "source_panel": "C:\\Users\\User\\Documents\\Codex\\2026-09-23\\i\\outputs\\eu27_industry_leakage_screen_panel_2008_2022.csv",
+  "source_years": [
+    2008,
+    2022
+  ],
+  "forecast_years": [
+    2023,
+    2030
+  ],
+  "sectors": [
+    "C20",
+    "C23"
+  ],
+  "indicators": {
+    "production_million_2020_eur": {
+      "label": "EU sold production value",
+      "unit": "million 2020 euros",
+      "color": "#2F6B8A"
+    },
+    "domestic_emissions_mt": {
+      "label": "EU industry emissions",
+      "unit": "Mt CO₂e",
+      "color": "#4C7C59"
+    },
+    "extra_eu_import_million_2020_eur": {
+      "label": "Extra-EU imports",
+      "unit": "million 2020 euros",
+      "color": "#D08B32"
+    },
+    "extra_eu_embodied_import_carbon_mtco2e": {
+      "label": "Carbon embodied in imports",
+      "unit": "Mt CO₂e",
+      "color": "#9A5B76"
+    }
+  },
+  "method": "For each sector and indicator, fit a log-linear trend over 2008-2022, 2013-2022 and 2018-2022. Anchor each path on the observed 2022 value and compound its fitted annual rate through 2030.",
+  "scenario_interpretation": "Historical-window sensitivities. The three paths are not probabilities, confidence intervals, or causal estimates.",
+  "limitations": [
+    "The four-indicator common observed panel ends in 2022 because OECD modeled embodied-carbon data end in 2022 in the supplied extract.",
+    "Newer Eurostat data exist for some measures, but cannot update the full four-indicator comparison to a common year without extending the OECD embodied-carbon series.",
+    "This is an aggregate sector screen, not product-level emissions or a causal leakage estimate.",
+    "A fitted trend can differ from the endpoint change and may be especially sensitive in shorter windows.",
+    "The forecast holds historical growth rates constant and does not model policy, prices, technology, or structural breaks."
+  ]
+}

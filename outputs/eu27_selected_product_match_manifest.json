@@ -1,0 +1,13 @@
+{
+  "source_prodcom": "Eurostat DS-059358, EU27_2020; selected PRODCOM products and PRODQNT quantity of sold production.",
+  "source_comext": "Eurostat DS-045409, reporter EU27_2020, partner EXT_EU27_2020, flow 1 (IMPORT), CN8, QUANTITY_IN_100KG; annual 2008\u20132022.",
+  "official_mapping": "EU Vocabularies PRODCOM List 2022, item-level RDF linked data; PRODCOM-to-CN references and units recorded in eu27_selected_product_code_mapping.csv.",
+  "unit_conversion": "Comext QUANTITY_IN_100KG multiplied by 100 to kg; selected PRODCOM physical units are KG.",
+  "caveats": [
+    "PRODCOM is sold production quantity, not total industrial output or tonnes of CO2.",
+    "CN2022 crosswalk used to select product-level import series; check annual CN/PRODCOM nomenclature stability before extending outside 2008\u20132022.",
+    "The simple import-share proxy excludes exports and intra-EU trade and is not full apparent consumption.",
+    "OECD embodied carbon remains available only at broader NACE activity level, not these exact products.",
+    "One-sided Spearman tests are exploratory; Benjamini\u2013Hochberg adjusted across eight product-indicator tests; no autocorrelation correction."
+  ]
+}

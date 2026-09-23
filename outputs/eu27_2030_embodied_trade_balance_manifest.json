@@ -1,0 +1,29 @@
+{
+  "analysis": "Conditional trend scenarios for EU27 net GHG embodied in extra-EU imports minus exports",
+  "source": "F:\\Carbon Leak\\external_data\\oecd_ghg_embodied_bilateral_trade_eu27_2008_2022.csv",
+  "export_source": "F:\\Carbon Leak\\external_data\\oecd_ghg_embodied_bilateral_trade_eu27_exports_2008_2022.csv",
+  "observed_years": [
+    2008,
+    2022
+  ],
+  "forecast_years": [
+    2023,
+    2030
+  ],
+  "sectors": [
+    "C19",
+    "C20",
+    "C23"
+  ],
+  "method": "For each sector and each of three windows (2008-2022, 2013-2022, 2018-2022), fit log-linear trends separately to positive annual embodied-import and embodied-export estimates. Anchor both projected gross flows on their observed 2022 values, compound through 2030, then calculate net imports minus exports for each year.",
+  "scenario_interpretation": "Historical-window sensitivities, not probabilities, confidence intervals, or causal estimates.",
+  "unit": "million tonnes CO2 equivalent (Mt CO2e)",
+  "limitations": [
+    "OECD bilateral embodied-GHG estimates end in 2022 in these source extracts.",
+    "Only C19, C20 and C23 have observations for both trade directions in this extract; missing sectors are not assumed to be zero.",
+    "The projection extrapolates historical rates and does not model policy, prices, technology, demand, trade substitution or structural breaks.",
+    "The balance describes modeled emissions embodied in trade and does not measure displaced production or prove carbon leakage.",
+    "Recent-window paths can be highly sensitive to a short period and should be read as stress-test scenarios."
+  ],
+  "created_at_utc": "2026-09-23T11:00:29.826249+00:00"
+}

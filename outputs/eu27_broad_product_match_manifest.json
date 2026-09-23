@@ -1,0 +1,15 @@
+{
+  "source_prodcom": "Eurostat DS-059358, EU27_2020, sold-production quantities and units, 2008\u20132022, supplied file prodcom_eu27_target_sectors_2008_2022.csv.",
+  "source_trade": "Eurostat Comext DS-045409, reporter EU27_2020, partner EXT_EU27_2020, flow 1 (imports), CN8 quantity in 100 kg, 2008\u20132022.",
+  "official_crosswalk": "EU Vocabularies PRODCOM List 2022 to CN 2022 relations and units obtained from Publications Office Cellar SPARQL endpoint. Full relation table: external_data/prodcom2022_cn2022_official_correspondence.csv.",
+  "strict_filter": "Numeric PRODCOM product code; one or more linked CN8 codes that are each linked to this PRODCOM code only in the full PRODCOM 2022 list; official and annual units KG; all 15 production quantity observations numeric; no quantity confidentiality flag. Multiple exclusive CN8 import series are summed only when all component observations are present.",
+  "scope": "Products in supplied PRODCOM target divisions C17, C19, C20, C23 and C24. This does not cover every EU industrial sector. C19 has only one PRODCOM code in this extract.",
+  "missing": "Comext values not present in Eurostat are retained as missing, not imputed to zero; multi-CN totals require every component value to be reported.",
+  "limitations": [
+    "The 2022 classification correspondence is used across historical series; historical product definitions and CN revisions may limit comparability.",
+    "The screen compares sold production with extra-EU imports, excludes intra-EU trade and exports, and cannot calculate full market dependency.",
+    "Product-level embodied carbon is not supplied for these matched products; risk patterns do not establish causality.",
+    "The endpoint screen compares only 2008 with 2022; intermediate fluctuations and macroeconomic causes remain relevant.",
+    "Trend tests use Spearman rank correlation and BH adjustment; they do not correct for year-to-year autocorrelation."
+  ]
+}
